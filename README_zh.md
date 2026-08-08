@@ -1,5 +1,7 @@
 # 椭圆曲线密码学的已知攻击
 
+![椭圆曲线密码学的已知攻击封面](images/ecc-attacks-cover.png)
+
 **语言：** [English](README.md) | 简体中文
 
 - [介绍](#介绍)

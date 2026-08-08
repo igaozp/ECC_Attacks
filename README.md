@@ -1,5 +1,7 @@
 # Known Attacks On Elliptic Curve Cryptography
 
+![Known attacks on elliptic curve cryptography cover](images/ecc-attacks-cover.png)
+
 **Languages:** English | [简体中文](README_zh.md)
 
 - [Introduction](#Introduction)
