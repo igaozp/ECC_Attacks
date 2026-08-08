@@ -1,4 +1,7 @@
 # Known Attacks On Elliptic Curve Cryptography
+
+**Languages:** English | [简体中文](README_zh.md)
+
 - [Introduction](#Introduction)
 - [Introduction To Elliptic Curves](#Introduction-To-Elliptic-Curves)
 - [Elliptic Curves In The Context Of Cryptography](#Elliptic-curves-in-the-context-of-cryptography)
